@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box1{
+    height: 80%;
+    width: 50cap;
+    background-color: #CBDCF0;
+    border-radius: 10%;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px ;
+}
+#heading{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 165%;
+    font-weight: bolder;
+}
+.pattern{
+    margin: 1%;
+    height:87%;
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 400%;
+    font-weight: bolder;
+}
